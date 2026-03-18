@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הולנדיה מביאה אליכם את קולקציית הרהיטים היוקרתיים המרהיבה ביותר בישראל. עצבו את הבית שתמיד חלמתם עליו עם סלון יוקרה בעיצוב מודרני. בקרו אותנו היום.
+
+### אודות
+https://example.com/about
+מי אנחנו ולמה אלפי לקוחות בוחרים בהולנדיה לעצב את ביתם? גלו את הערכים, החזון והתשוקה לרהיטים יוקרתיים שהפכו אותנו לשם דבר בעיצוב הבית בישראל.
+
+### השראה
+https://example.com/inspiration
+גלריית ההשראה של הולנדיה מלאה ברעיונות עיצוב מרתקים לסלון יוקרה, חדר שינה וחדרי אוכל. מצאו את הסגנון שמדבר אליכם ותנו לנו להפוך אותו למציאות בביתכם.
+
+### צור קשר
+https://example.com/contact
+רוצים לשדרג את הבית עם רהיטים יוקרתיים? צוות המומחים של הולנדיה כאן לכם לייעוץ אישי, תיאום ביקור בחנות ומענה לכל שאלה. צרו קשר עכשיו ונתחיל לעצב יחד.
+
+### Products
+https://example.com/products
+המוצרים שלנו - הולנדיה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - הולנדיה
+
+### Category
+https://example.com/category/:slug
+מוצרים - הולנדיה
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
